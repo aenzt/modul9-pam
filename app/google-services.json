@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697771672174",
+    "firebase_url": "https://prak-pam-aaefa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prak-pam-aaefa",
+    "storage_bucket": "prak-pam-aaefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697771672174:android:42cbad79ed2a7e03af9c7f",
+        "android_client_info": {
+          "package_name": "com.example.modul9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697771672174-4h0ak84ai2adne67na3g46u4jn1taobl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modul9",
+            "certificate_hash": "1da9f7721c5bbe627dcea444c68a745907fa801b"
+          }
+        },
+        {
+          "client_id": "697771672174-vkv7dj6v0maogbj8v91e8as10kanpg5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqbkpirxQ9YkbpXjX-3vSolMR__Bw96Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697771672174-sc4imaih37h5vsi2optt7ubujpeq17lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
